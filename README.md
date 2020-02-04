@@ -1,0 +1,1 @@
+If you have any trouble executing cypress or you find any warning/error about dependencies you should visit this: https://docs.cypress.io/guides/guides/continuous-integration.html#Advanced-setup

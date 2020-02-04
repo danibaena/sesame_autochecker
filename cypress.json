@@ -1,0 +1,16 @@
+{
+    "video": false,
+    "chromeWebSecurity": false,
+    "env": {
+        "SESAME_USERNAME": "user",
+        "SESAME_PASSWORD": "pass",
+        "WORKDAYS": ["monday, tuesday, wednesday, thursday"],
+        "WORKDAY_START": "8:00",
+        "WORKDAY_LUNCH_TIME_START": "14:00",
+        "WORKDAY_LUNCH_TIME_END": "14:30",
+        "WORKDAY_END": "17:15",
+        "REDUCED_WORKDAY_START": "8:00",
+        "REDUCED_WORKDAY_END": "14:00",
+        "REDUCED_WEEK": false
+    }
+}
